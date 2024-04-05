@@ -1,4 +1,4 @@
-# ᴀ ᴡᴇᴀʟᴛʜ ᴏꜰ ᴅᴀᴛᴀ: ᴍᴀᴛʜᴇᴍᴀᴛɪᴄᴀʟ ᴍᴏᴅᴇʟʟɪɴɢ ᴏꜰ ᴏɴʟɪɴᴇ ᴘʀᴏᴅᴜᴄᴛ ᴏꜰꜰᴇʀɪɴɢꜱ ᴠɪᴀ ᴠᴀᴅᴇʀ ʟᴇxɪᴄᴏɴ-ʙᴀꜱᴇᴅ ɴᴀᴛᴜʀᴀʟ ʟᴀɴɢᴜᴀɢᴇ ᴘʀᴏᴄᴇꜱꜱɪɴɢ ᴀɴᴅ ᴀʀɪᴍᴀ ᴛɪᴍᴇ-ꜱᴇʀɪᴇꜱ ᴀɴᴀʟʏꜱɪꜱ
+# ᴍᴀᴛʜᴇᴍᴀᴛɪᴄᴀʟ ᴍᴏᴅᴇʟʟɪɴɢ ᴏꜰ ᴏɴʟɪɴᴇ ᴘʀᴏᴅᴜᴄᴛ ᴏꜰꜰᴇʀɪɴɢꜱ ᴠɪᴀ ᴠᴀᴅᴇʀ ʟᴇxɪᴄᴏɴ-ʙᴀꜱᴇᴅ ɴᴀᴛᴜʀᴀʟ ʟᴀɴɢᴜᴀɢᴇ ᴘʀᴏᴄᴇꜱꜱɪɴɢ ᴀɴᴅ ᴀʀɪᴍᴀ ᴛɪᴍᴇ-ꜱᴇʀɪᴇꜱ ᴀɴᴀʟʏꜱɪꜱ
 
 **𝗣𝗨𝗥𝗣𝗢𝗦𝗘:** This modelling analysis pertains on the joint use of lexicon-based Natural Language Processing and Time-Series Analysis to elucidate the mathematical models that aim to analyze the three product offerings: baby pacifier, hair dryer, and microwave oven of Sunshine Company. The analysis tried to identify, describe, and support their market offerings in Amazon through mathematical evidences and meaningful quantitative and qualitative data patterns.
 
